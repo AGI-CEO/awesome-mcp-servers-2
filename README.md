@@ -451,6 +451,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 
 > Tools for security needs. Enables securing code, finding vulnerabilies.
 
+- <img src="https://www.paladinfront.com/favicon.ico" height="14"/> [PHP2Shell Scanner & WordPress-to-Next.js Converter](https://github.com/AGI-CEO/php2shell-wordpress-to-nextjs-mcp) - Scan and fix PHP2Shell (CVE-2026-109618 & CVE-2026-109619) PHP runtime RCE vulnerabilities and automatically convert vulnerable WordPress or PHP websites into zero-PHP Next.js sites.
 - <img src="https://semgrep.dev/favicon.ico" height="14"/> [Semgrep](https://github.com/semgrep/mcp) - A MCP server for using [Semgrep](https://github.com/semgrep/semgrep) to scan code for security vulnerabilities.
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Microsoft_Entra_ID_color_icon.svg/120px-Microsoft_Entra_ID_color_icon.svg.png" height="14"/> [Microsoft Entra ID](https://github.com/hieuttmmo/entraid-mcp-server) - A MCP server for interacting with EntraID through Microsoft Graph API. It is designed for extensibility, maintainability, and security, supporting advanced queries for users, sign-in logs, MFA status, privileged users and more.
 - <img src="https://www.netwrix.com/favicon.ico" height="14"/> [Netwrix](https://github.com/netwrix/mcp-server-naa)<sup><sup>⭐</sup></sup> - A FastMCP-based server for [Netwrix Access Analyzer](https://www.netwrix.com/access-analyzer.html) data analysis, designed for enhanced data analysis capabilities.
